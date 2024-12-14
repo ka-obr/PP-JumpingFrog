@@ -1,0 +1,8 @@
+playing_area_width 60
+playing_area_height 25
+
+number_of_friendly_cars 2
+
+number_of_hostile_cars 4
+
+number_of_stopping_cars 2
